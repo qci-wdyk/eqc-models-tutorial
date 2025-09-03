@@ -1,5 +1,5 @@
 QPLIB_5881
-QBB
+QBN
 maximize
 120 # number of variables
 2123 # number of quadratic terms in objective
